@@ -1,4 +1,4 @@
-# Thronesdb
+# ThronesDB
 
 **TODO: Add description**
 

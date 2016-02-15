@@ -1,6 +1,6 @@
-defmodule ThronesdbTest do
+defmodule ThronesDBTest do
   use ExUnit.Case
-  doctest Thronesdb
+  doctest ThronesDB
 
   test "the truth" do
     assert 1 + 1 == 2
