@@ -1,6 +1,14 @@
 # ThronesDB
 
-**TODO: Add description**
+An Elixir client for the thronesdb.com Game of Thrones LCG API.
+
+## Usage
+
+```Elixir
+ThronesDB.Card.all
+ThronesDB.Card.get("01001")
+ThronesDB.Card.pack("core")
+```
 
 ## Installation
 
